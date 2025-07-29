@@ -11,7 +11,7 @@ const AppointmentFinder = () => {
   });
 
   // Replace with your actual API key
-  const API_KEY = 'AIzaSyCqvvrrhUSq5Hx3PLdCmIZhjzQ8V_ZKpXM';
+  const API_KEY = '';
 
   const fetchNearbyPsychiatrists = async () => {
     setLoading(true);
