@@ -147,30 +147,5 @@ mind/
 - Secure data storage
 - Privacy-compliant conversation handling
 
-## Development
 
-```bash
-# Run linting
-npm run lint
 
-# Build for production
-npm run build
-
-# Preview build
-npm run preview
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-MIT License
-
----
-
-Built for accessible mental health support
